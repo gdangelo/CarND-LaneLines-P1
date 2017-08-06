@@ -5,7 +5,7 @@
 
 The purpose of this project is to build a software pipeline to detect lane lines on the road from video using Python and OpenCV. More info in the [writeup](https://github.com/gdangelo/CarND-LaneLines-P1/blob/master/writeup.md).
 
-![](https://github.com/gdangelo/CarND-LaneLines-P1/blob/master/test_images_lines/solidYellowCurve2.jpg)
+![Finding lane lines](https://user-images.githubusercontent.com/4352286/29002994-035aab2a-7aaf-11e7-8168-621c58e91032.gif)
 
 ## Overview
 Starting to work on this project consists of the following steps:
