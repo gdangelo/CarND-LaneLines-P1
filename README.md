@@ -40,7 +40,7 @@ Starting to work on this project consists of the following steps:
 - **Mac:** http://conda.pydata.org/docs/install/quick.html#os-x-miniconda-install
 - **Windows:** http://conda.pydata.org/docs/install/quick.html#windows-miniconda-install
 
-**Setup** your the `carnd` environment. 
+**Setup** your `carnd` environment. 
 
 ```sh
 git clone https://github.com/gdangelo/CarND-LaneLines-P1.git
